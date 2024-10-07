@@ -2,7 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+
+*{
+ /* height: 100%; */
+ /* width: 100%; */
+}
 /* In your global styles (e.g., index.css or styles.css) */
 html, body {
-  height: 100%;
+  /* height: 100%; */
+  /* width: 100%; */
 }
